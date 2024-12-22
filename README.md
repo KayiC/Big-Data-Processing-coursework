@@ -5,7 +5,7 @@ Below is a detailed breakdown of each task along with the provided files and dat
 
 # Tasks
 - Task 1: NYC Yellow Taxi Dataset
-Analyze the NYC Yellow Taxi dataset.
+  Analyze the NYC Yellow Taxi dataset.
 
 Files Provided:
 task1_yellow_sample_dataset.csv: Sample dataset.
